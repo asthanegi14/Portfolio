@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Porthfolio/static/css/main.8e79001b.css",
+    "main.js": "/Porthfolio/static/js/main.50825aae.js",
+    "static/media/gehu.png": "/Porthfolio/static/media/gehu.6421cc8cb5bb257501b9.png",
+    "static/media/ashu.png": "/Porthfolio/static/media/ashu.daeab697a4e03f489431.png",
+    "static/media/donationWebsite.png": "/Porthfolio/static/media/donationWebsite.a9f7aeda2648d7a9186f.png",
+    "static/media/react.png": "/Porthfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/html.png": "/Porthfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tcss.png": "/Porthfolio/static/media/tcss.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/Porthfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/todo.png": "/Porthfolio/static/media/todo.7f1d15e465d2646d281a.png",
+    "static/media/js.png": "/Porthfolio/static/media/js.1ccd6ef9bb1f9c84ef00.png",
+    "static/media/php.png": "/Porthfolio/static/media/php.0a564540c19c7189202e.png",
+    "static/media/java.png": "/Porthfolio/static/media/java.6c64373d3b7415758078.png",
+    "static/media/sql.avif": "/Porthfolio/static/media/sql.cd68f102ea39994ebec7.avif",
+    "index.html": "/Porthfolio/index.html",
+    "main.8e79001b.css.map": "/Porthfolio/static/css/main.8e79001b.css.map",
+    "main.50825aae.js.map": "/Porthfolio/static/js/main.50825aae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e79001b.css",
+    "static/js/main.50825aae.js"
+  ]
+}
