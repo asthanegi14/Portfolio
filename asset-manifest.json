@@ -1,25 +1,19 @@
 {
   "files": {
-    "main.css": "/Porthfolio/static/css/main.8e79001b.css",
-    "main.js": "/Porthfolio/static/js/main.50825aae.js",
-    "static/media/gehu.png": "/Porthfolio/static/media/gehu.6421cc8cb5bb257501b9.png",
+    "main.css": "/Porthfolio/static/css/main.db87a16a.css",
+    "main.js": "/Porthfolio/static/js/main.db5daf07.js",
+    "static/media/Donation.jpg": "/Porthfolio/static/media/Donation.eb0a7c6e97f9373ae55f.jpg",
     "static/media/ashu.png": "/Porthfolio/static/media/ashu.daeab697a4e03f489431.png",
-    "static/media/donationWebsite.png": "/Porthfolio/static/media/donationWebsite.a9f7aeda2648d7a9186f.png",
-    "static/media/react.png": "/Porthfolio/static/media/react.0cf951a69d8e58f83f9d.png",
-    "static/media/html.png": "/Porthfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
-    "static/media/tcss.png": "/Porthfolio/static/media/tcss.e47ac876b8d4d0bba47a.png",
-    "static/media/css.png": "/Porthfolio/static/media/css.69a82c2d9e45c933a9cb.png",
-    "static/media/todo.png": "/Porthfolio/static/media/todo.7f1d15e465d2646d281a.png",
-    "static/media/js.png": "/Porthfolio/static/media/js.1ccd6ef9bb1f9c84ef00.png",
-    "static/media/php.png": "/Porthfolio/static/media/php.0a564540c19c7189202e.png",
-    "static/media/java.png": "/Porthfolio/static/media/java.6c64373d3b7415758078.png",
-    "static/media/sql.avif": "/Porthfolio/static/media/sql.cd68f102ea39994ebec7.avif",
+    "static/media/gehu.jpeg": "/Porthfolio/static/media/gehu.d7f40ce95d1d9de8094b.jpeg",
+    "static/media/todo.jpg": "/Porthfolio/static/media/todo.66a85d0c8f393e5597f8.jpg",
+    "static/media/converter.png": "/Porthfolio/static/media/converter.7c82c7512a4f70a682b6.png",
+    "static/media/calci.jpg": "/Porthfolio/static/media/calci.92b545423071af92021b.jpg",
     "index.html": "/Porthfolio/index.html",
-    "main.8e79001b.css.map": "/Porthfolio/static/css/main.8e79001b.css.map",
-    "main.50825aae.js.map": "/Porthfolio/static/js/main.50825aae.js.map"
+    "main.db87a16a.css.map": "/Porthfolio/static/css/main.db87a16a.css.map",
+    "main.db5daf07.js.map": "/Porthfolio/static/js/main.db5daf07.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e79001b.css",
-    "static/js/main.50825aae.js"
+    "static/css/main.db87a16a.css",
+    "static/js/main.db5daf07.js"
   ]
 }
