@@ -1,10 +1,11 @@
 import Navbar from "./components/Navbar";
 import Home from "./components/Home";
 import Social from "./components/Social";
-import Skills from "./components/Skills";
+// import Skills from "./components/Skills";
 import Projects from "./components/Projects";
 import Contact from "./components/Contact";
 import Clg from "./components/Clg";
+import Footer from "./components/Footer";
 function Porth() {
     return (
         <div className="Porth">
@@ -12,11 +13,12 @@ function Porth() {
             <h2>Astha negi</h2> */}
             <Navbar />
             <Home />
-            <Skills />
+            {/* <Skills /> */}
             <Projects/>
             <Clg/>
             <Contact/>
             <Social />
+            <Footer/>
         </div>
     );
 }
