@@ -121,17 +121,15 @@ const Projects = () => {
                 {view1 &&
 
                     <div className='pop top-0 left-0 right-0 bottom-0 fixed  bg-gradient-to-r from-cyan-600 via-cyan-400 to-cyan-600 text-black px-12 py-8'>
-                        <div className='absolute top-8 right-0 h-16 w-16' onClick={popUp}>
+                        <div className='absolute top-2 right-0 pb-2 h-16 w-16' onClick={popUp}>
                             <><FaTimes /></>
                         </div>
                         <div className='h-64'>
                             <img src={Gehu} alt="Gehu" className='popUpImg h-full ' />
                         </div>
-                        <div className='px-4 py-8 text-center'>
+                        <div className='px-4 pt-8 text-center'>
                             <h2 className='font-signature text-2xl py-2 '>Clone Of Graphic Era University</h2>
-                            <p className='py-2'> It is a Full Stack Website made up with the help of HTML, CSS, and JavaScript. This website is not a proper clone i tried to implement my learnings in it.
-                                <br /> With the help of this website a user can get to know more about Graphic Era University as well as the academic deatils also he or she can contact to the staf of GEU. There is a 360 degree tour of GEU is available in it.
-                                <br />If you want to take the tour of GEU then click on the "DEMO" Button shown below</p>
+                            <p className='py-2'> It is a Full Stack Website made up with the help of HTML, CSS, and JavaScript. This website is not a proper clone i tried to implement my learnings in it. With the help of this website a user can get to know more about Graphic Era University as well as the academic deatils also he or she can contact to the staf of GEU. There is a 360 degree tour of GEU is available in it.</p>
                         </div>
                         <center>
                             <div className='space-x-4'>
@@ -151,15 +149,15 @@ const Projects = () => {
                 {view2 &&
 
                     <div className='pop top-0 left-0 right-0 bottom-0 fixed  bg-gradient-to-r from-cyan-600 via-cyan-400 to-cyan-600 text-black px-12 py-8'>
-                        <div className='absolute top-8 right-0 h-16 w-16' onClick={() => { popUp2() }}>
+                        <div className='absolute top-2 right-0 pb-2 h-16 w-16' onClick={() => { popUp2() }}>
                             <><FaTimes /></>
                         </div>
                         <div className='h-64'>
                             <img src={Todo} alt="Gehu" className='popUpImg h-full ' />
                         </div>
-                        <div className='px-4 py-12 text-center'>
+                        <div className='px-4 pt-8 text-center'>
                             <h2 className='font-signature text-2xl py-2 '>Make Your ToDo List Here</h2>
-                            <p className='py-2'> Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur deleniti fugiat numquam in pariatur ipsam. Esse fugiat facilis sit quia beatae repellat, harum, aspernatur quis eveniet repellendus ut explicabo molestiae magni! Odit culpa blanditiis numquam non sunt quia pariatur in debitis doloribus, voluptatum, molestias quaerat tenetur, modi architecto similique iure consequuntur id magnam ut! Nulla incidunt doloremque alias ipsum blanditiis quisquam dolorem!</p>
+                            <p className='py-2'> Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur deleniti fugiat numquam in pariatur ipsam. Esse fugiat facilis sit quia beatae repellat, harum, aspernatur quis eveniet repellendus ut explicabo molestiae magni! Odit culpa blanditiis!</p>
                         </div>
                         <center>
                             <div className='space-x-4'>
@@ -179,22 +177,22 @@ const Projects = () => {
                 {view3 &&
 
                     <div className='pop top-0 left-0 right-0 bottom-0 fixed  bg-gradient-to-r from-cyan-600 via-cyan-400 to-cyan-600 text-black px-12 py-8'>
-                        <div className='absolute top-8 right-0 h-16 w-16' onClick={() => { popUp3() }}>
+                        <div className='absolute top-2 right-0 pb-2 h-16 w-16' onClick={() => { popUp3() }}>
                             <><FaTimes /></>
                         </div>
                         <div className='h-64'>
                             <img src={Donation} alt="Gehu" className='popUpImg h-full ' />
                         </div>
-                        <div className='px-4 py-12 text-center'>
+                        <div className='px-4 pt-8 text-center'>
                             <h2 className='font-signature text-2xl py-2 '>Donation Website With Blockchain</h2>
-                            <p className='py-2'> Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur deleniti fugiat numquam in pariatur ipsam. Esse fugiat facilis sit quia beatae repellat, harum, aspernatur quis eveniet repellendus ut explicabo molestiae magni! Odit culpa blanditiis numquam non sunt quia pariatur in debitis doloribus, voluptatum, molestias quaerat tenetur, modi architecto similique iure consequuntur id magnam ut! Nulla incidunt doloremque alias ipsum blanditiis quisquam dolorem!</p>
+                            <p className='py-2'> Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur deleniti fugiat numquam in pariatur ipsam. Esse fugiat facilis sit quia beatae repellat, harum, aspernatur quis eveniet repellendus ut explicabo molestiae magni! Odit culpa blanditiis.</p>
                         </div>
                         <center>
                             <div className='space-x-4'>
                                 <a href="https://github.com/Greedy-Only/Crowd-Funding-Website-using-Ethereum-Blockchain">
                                     <button className='cursor-pointer hover:bg-gray-200 hover:text-black text-lg bg-red-700 text-white px-4 py-2 font-signature text-center rounded-md'>Code</button>
                                 </a>
-                                <p className='font-signature py-2'>-----------  There is no Demo available for this project  -----------</p>
+                                <p className='font-signature py-2'>There is no Demo available for this project</p>
                             </div>
                         </center>
                     </div>
@@ -203,15 +201,15 @@ const Projects = () => {
                 {view4 &&
 
                     <div className='pop top-0 left-0 right-0 bottom-0 fixed  bg-gradient-to-r from-cyan-600 via-cyan-400 to-cyan-600 text-black px-12 py-8'>
-                        <div className='absolute top-8 right-0 h-16 w-16' onClick={() => { popUp4() }}>
+                        <div className='absolute top-2 right-0 pb-2 h-16 w-16' onClick={() => { popUp4() }}>
                             <><FaTimes /></>
                         </div>
                         <div className='h-64'>
                             <img src={Converter} alt="Gehu" className='popUpImg h-full ' />
                         </div>
-                        <div className='px-4 py-12 text-center'>
+                        <div className='px-4 pt-8 text-center'>
                             <h2 className='font-signature text-2xl py-2 '>Text-to-Voice & Voice-to-Text</h2>
-                            <p className='py-2'> Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur deleniti fugiat numquam in pariatur ipsam. Esse fugiat facilis sit quia beatae repellat, harum, aspernatur quis eveniet repellendus ut explicabo molestiae magni! Odit culpa blanditiis numquam non sunt quia pariatur in debitis doloribus, voluptatum, molestias quaerat tenetur, modi architecto similique iure consequuntur id magnam ut! Nulla incidunt doloremque alias ipsum blanditiis quisquam dolorem!</p>
+                            <p className='py-2'> Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur deleniti fugiat numquam in pariatur ipsam. Esse fugiat facilis sit quia beatae repellat, harum, aspernatur quis eveniet repellendus ut explicabo molestiae magni!</p>
                         </div>
                         <center>
                             <div className='space-x-4'>
@@ -231,15 +229,15 @@ const Projects = () => {
                 {view5 &&
 
                     <div className='pop top-0 left-0 right-0 bottom-0 fixed  bg-gradient-to-r from-cyan-600 via-cyan-400 to-cyan-600 text-black px-12 py-8'>
-                        <div className='absolute top-8 right-0 h-16 w-16' onClick={() => { popUp5() }}>
+                        <div className='absolute top-2 right-0 pb-2 h-16 w-16' onClick={() => { popUp5() }}>
                             <><FaTimes /></>
                         </div>
                         <div className='h-64'>
                             <img src={Calci} alt="Gehu" className='popUpImg h-full ' />
                         </div>
-                        <div className='px-4 py-12 text-center'>
+                        <div className='px-4 pt-8 text-center'>
                             <h2 className='font-signature text-2xl py-2 '>Make Your Calculations Easy</h2>
-                            <p className='py-2'> Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur deleniti fugiat numquam in pariatur ipsam. Esse fugiat facilis sit quia beatae repellat, harum, aspernatur quis eveniet repellendus ut explicabo molestiae magni! Odit culpa blanditiis numquam non sunt quia pariatur in debitis doloribus, voluptatum, molestias quaerat tenetur, modi architecto similique iure consequuntur id magnam ut! Nulla incidunt doloremque alias ipsum blanditiis quisquam dolorem!</p>
+                            <p className='py-2'> Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur deleniti fugiat numquam in pariatur ipsam. Esse fugiat facilis sit quia beatae repellat, harum, aspernatur quis eveniet repellendus ut explicabo molestiae magni!</p>
                         </div>
 
                         <center>
