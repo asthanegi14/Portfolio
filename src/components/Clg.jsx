@@ -18,29 +18,29 @@ const clg = () => {
                         <p className='py-6'>This section contains all my college work</p>
                     </div>
 
-                    <div className='w-full grid grid-cols-2 sm:grid-cols-4 gap-8 text-center py-8 px-12 sm:px-0'>
+                    <div className='w-full grid grid-cols-1 sm:grid-cols-3 gap-8 text-center py-8 px-12 sm:px-0'>
                         <Fade distance="20%" duration="2000" bottom>
                             <div className='py-2 rounded-lg '>
-                                <img src={Lecture} alt="html" className='object-cover rounded-md duration-200 w-full h-48' />
-                                <p className='hover:scale-105 duration-500  rounded-md shadow-md mt-4 px-4 py-4 shadow-black'>Weekly Lectures</p>
+                                <img src={Lecture} alt="html" className='object-cover w-full h-48' />
+                                <p className='hover:scale-105 duration-500 bg-gradient-to-r from-cyan-700 via-cyan-400 to-cyan-600 text-black text-center rounded-md shadow-md mt-4 px-4 py-4 shadow-cyan-900 font-signature'>Weekly Lectures</p>
                             </div>
                         </Fade>
                         <Fade distance="20%" duration="2000" bottom>
                             <div className='py-2 rounded-lg '>
-                                <img src={Asign} alt="html" className='object-cover rounded-md duration-200 w-full h-48' />
-                                <p className='hover:scale-105 duration-500 rounded-md shadow-md mt-4 px-4 py-4 shadow-black'>Assignments</p>
+                                <img src={Asign} alt="html" className='object-cover w-full h-48' />
+                                <p className='hover:scale-105 duration-500 bg-gradient-to-r from-cyan-700 via-cyan-400 to-cyan-600 text-black text-center rounded-md shadow-md mt-4 px-4 py-4 shadow-cyan-900 font-signature'>Assignments</p>
                             </div>
                         </Fade>
                         <Fade distance="20%" duration="2000" bottom>
                             <div className='py-2 rounded-lg '>
-                                <img src={Interview} alt="html" className='object-cover rounded-md duration-200 w-full h-48' />
-                                <p className='hover:scale-105 duration-500  rounded-md shadow-md mt-4 px-4 py-4 shadow-black'>Personal Interview</p>
+                                <img src={Interview} alt="html" className='object-cover w-full h-48' />
+                                <p className='hover:scale-105 duration-500 bg-gradient-to-r from-cyan-700 via-cyan-400 to-cyan-600 text-black text-center rounded-md shadow-md mt-4 px-4 py-4 shadow-cyan-900 font-signature'>Personal Interview</p>
                             </div>
                         </Fade>
                         <Fade distance="20%" duration="2000" bottom>
                             <div className='py-2 rounded-lg '>
-                                <img src={Gd} alt="html" className='object-cover rounded-md duration-200 w-full h-48' />
-                                <p className='hover:scale-105 duration-500  rounded-md shadow-md mt-4 px-4 py-4 shadow-black'>Group Discussion</p>
+                                <img src={Gd} alt="html" className='object-cover w-full h-48' />
+                                <p className='hover:scale-105 duration-500 bg-gradient-to-r from-cyan-700 via-cyan-400 to-cyan-600 text-black text-center rounded-md shadow-md mt-4 px-4 py-4 shadow-cyan-900 font-signature'>Group Discussion</p>
                             </div>
                         </Fade>
                     </div>

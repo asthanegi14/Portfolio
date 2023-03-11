@@ -12,25 +12,25 @@ const Footer = () => {
                 <div className='px-4 justify-center items-center'>
                     <a href="https://www.linkedin.com/in/astha-negi-771b22216/" className='group'>
                         <> <FaLinkedin size={30} className="justify-center items-center mx-2 my-2" />
-                            <h2 className="opacity-0 gap-6 group-hover:opacity-100 duration-1000" >LinkedIn</h2></>
+                            <h2 className="gap-6" >LinkedIn</h2></>
                     </a>
                 </div>
                 <div className='px-4 justify-center items-center'>
                     <a href="https://github.com/asthanegi14" className='group'>
                         <>  <FaGithub size={30} className="justify-center items-center mx-2 my-2" />
-                            <h2 className="opacity-0 gap-6 group-hover:opacity-100 duration-1000" >GitHub</h2> </>
+                            <h2 className="gap-6" >GitHub</h2> </>
                     </a>
                 </div>
                 <div className='px-4 justify-center items-center'>
                     <a href="mailto: asthanegi539@gmail.com" className='group'>
                         <> <HiOutlineMail size={30} className="justify-center items-center mx-2 my-2" />
-                            <h2 className="opacity-0 gap-6 group-hover:opacity-100 duration-1000" >GMail</h2></>
+                            <h2 className="gap-6" >GMail</h2></>
                     </a>
                 </div>
                 <div className='px-4 justify-center items-center'>
                     <a href="resume_AsthaNegi.pdf" download={true} target='_blank' className='group'>
                         <> <BsFillPersonLinesFill size={30} className="justify-center items-center mx-2 my-2" />
-                            <h2 className="opacity-0 gap-6 group-hover:opacity-100 duration-1000" >Resume</h2></>
+                            <h2 className="gap-6" >Resume</h2></>
                     </a>
                 </div>
             </div>

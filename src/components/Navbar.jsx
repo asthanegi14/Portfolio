@@ -8,9 +8,7 @@ const Navbar = () => {
     return (
         <div>
             <Slide top duration="2000">
-                <div className='flex justify-between items-center w-full
-         h-20 text-text-gray-700 px-4
-         bg-gradient-to-r from-cyan-700 via-cyan-400 to-cyan-600 fixed fill-mode-backwards'>
+                <div className='flex justify-between items-center w-full h-20 text-gray-700 px-4 bg-gradient-to-r from-cyan-700 via-cyan-400 to-cyan-600 fixed '>
                     <div>
                         <h1 className='text-2xl ml-2 text-black font-signature'>E-Portfolio</h1>
                     </div>
