@@ -8,27 +8,27 @@
 
 
 @layer base {
-    html {
-        font-family: 'Josefin Sans', sans-serif;
-    }
+  html {
+    font-family: 'Josefin Sans', sans-serif;
+  }
 }
 
 .react-reveal {
-    animation-fill-mode: backwards !important;
+  animation-fill-mode: backwards !important;
 }
 
 .popUpImg {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    height: 100%;
-    width: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 100%;
+  width: auto;
 }
 
 .pop {
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  position: fixed;
 }
