@@ -30,12 +30,6 @@ const Footer = () => {
                                 <h2 className="gap-6" >GMail</h2></>
                         </a>
                     </div>
-                    <div className='px-4 justify-center items-center'>
-                        <a href="resume_AsthaNegi.pdf" download={true} target='_blank' className='group'>
-                            <> <BsFillPersonLinesFill size={30} className="justify-center items-center mx-2 my-2" />
-                                <h2 className="gap-6" >Resume</h2></>
-                        </a>
-                    </div>
                 </div>
                 <p className='px-4 pt-8 pb-12 w-full text-sm text-center sm:pt-4'>**NOTE : This Portfolio is for the professional work of my University so please do not misuse the content inside it.
                     <br />
