@@ -28,11 +28,11 @@ const Navbar = () => {
 
                     {nav && (<ul className='flex flex-col justify-center items-center top-0 left-0 w-full h-screen 
          bg-gradient-to-r from-cyan-900 via-cyan-600 to-cyan-800 fixed'>
-                        <Link onClick={() => setNav(!nav)} to="home" smooth duration={500} className='px-4 cursor-pointer capitalize py-3 text-2xl font-signature'>Home</Link>
+                        <Link onClick={() => setNav(!nav)} to="home" smooth duration={500} className='px-4 cursor-pointer capitalize py-3 text-2xl font-signature text-black'>Home</Link>
                         {/* <Link onClick={() => setNav(!nav)} to="skills" smooth duration={500} className='px-4 cursor-pointer capitalize py-3 text-2xl font-signature'>Skills</Link> */}
-                        <Link onClick={() => setNav(!nav)} to="projects" smooth duration={500} className='px-4 cursor-pointer capitalize py-3 text-2xl font-signature'>Projects</Link>
-                        <Link onClick={() => setNav(!nav)} to="clg" smooth duration={500} className='px-4 cursor-pointer capitalize py-3 text-2xl font-signature'>College Work</Link>
-                        <Link onClick={() => setNav(!nav)} to="contact" smooth duration={500} className='px-4 cursor-pointer capitalize py-3 text-2xl font-signature'>Reach Out</Link>
+                        <Link onClick={() => setNav(!nav)} to="projects" smooth duration={500} className='px-4 cursor-pointer capitalize py-3 text-2xl font-signature text-black'>Projects</Link>
+                        <Link onClick={() => setNav(!nav)} to="clg" smooth duration={500} className='px-4 cursor-pointer capitalize py-3 text-2xl font-signature text-black'>College Work</Link>
+                        <Link onClick={() => setNav(!nav)} to="contact" smooth duration={500} className='px-4 cursor-pointer capitalize py-3 text-2xl font-signature text-black'>Reach Out</Link>
                     </ul>)}
 
                 </div>

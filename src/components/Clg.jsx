@@ -81,8 +81,6 @@ const Clg = () => {
                             <img src={Lecture} alt="Gehu" className='popUpImg h-full ' />
                         </div>
                         <div className='px-4 pt-8 text-center'>
-                            {/* <h2 className='font-signature text-2xl py-2 '>Clone Of Graphic Era University</h2>
-                            <p className='py-2'> It is a Full Stack Website made up with the help of HTML, CSS, and JavaScript. This website is not a proper clone i tried to implement my learnings in it. With the help of this website a user can get to know more about Graphic Era University as well as the academic deatils also he or she can contact to the staf of GEU. There is a 360 degree tour of GEU is available in it.</p> */}
                             <p>No content available right now</p>
                         </div>
                     </div>
@@ -103,11 +101,9 @@ const Clg = () => {
 
                             <h2 className='font-lg'>Favourait Dialogues</h2>
                             <p className='text-red-700 font-signature'>Nobody’s life is perfect. But nobody’s is all bad, either. </p>
-                            <p className='text-red-700 font-signature'>Words mean nothing if your actions do not align with what you say.</p>
-
 
                             <h2 className='font-lg'>Movie Review</h2>
-                            <p>If you ever wanted to see a movie that portrayed what really makes a man, then you must see this movie. Although this film is depressing in many points, Will Smith's son, Jaden Smith, lifts up the screen. Thomas Jefferson says we need to pursue happiness. That's what Chris Gardner does. He never gives up. He could even inspire some people. This is a good, uplifting film. Great acting and has a great message. This will be a good family film and has it's father-son moments.
+                            <p>If you ever wanted to see a movie that portrayed what really makes a man, then you must see this movie. Although this film is depressing in many points, Will Smith's son, Jaden Smith, lifts up the screen. Thomas Jefferson says we need to pursue happiness. That's what Chris Gardner does. He never gives up. He could even inspire some people. Overall this will be a good family film and has it's father-son moments.
                             </p>
                         </div>
                     </div>
