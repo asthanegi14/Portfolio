@@ -120,7 +120,7 @@ const Projects = () => {
             <Zoom distance="20%" duration="2000">
                 {view1 &&
 
-                    <div className='pop top-0 left-0 right-0 bottom-0 fixed  bg-gradient-to-r from-cyan-600 via-cyan-400 to-cyan-600 text-black px-12 py-8'>
+                    <div className='pop sm:mx-20 sm:my-4 fixed  bg-gradient-to-b from-cyan-600 via-cyan-400 to-cyan-600 text-black px-12 py-8'>
                         <div className='absolute top-2 right-0 pb-2 h-16 w-16' onClick={popUp}>
                             <><FaTimes /></>
                         </div>
@@ -134,10 +134,7 @@ const Projects = () => {
                         <center>
                             <div className='space-x-4'>
                                 <a href="https://asthanegi14.github.io/Unofficial-website-of-Graphic-era-university/">
-                                    <button className='cursor-pointer hover:bg-gray-200 hover:text-black text-lg  bg-red-700 text-white px-4 py-2 font-signature text-center rounded-md'>Demo</button>
-                                </a>
-                                <a href="https://github.com/asthanegi14/Unofficial-website-of-Graphic-era-university">
-                                    <button className='cursor-pointer hover:bg-gray-200 hover:text-black text-lg bg-red-700 text-white px-4 py-2 font-signature text-center rounded-md'>Code</button>
+                                    <button className='cursor-pointer hover:bg-gray-200 hover:text-black duration-500 text-lg  bg-red-700 text-white px-4 py-2 font-signature text-center rounded-md'>Demo</button>
                                 </a>
 
                             </div>
@@ -148,7 +145,7 @@ const Projects = () => {
             <Zoom>
                 {view2 &&
 
-                    <div className='pop top-0 left-0 right-0 bottom-0 fixed  bg-gradient-to-r from-cyan-600 via-cyan-400 to-cyan-600 text-black px-12 py-8'>
+                    <div className='pop sm:mx-20 sm:my-4 fixed  bg-gradient-to-b from-cyan-600 via-cyan-400 to-cyan-600 text-black px-12 py-8'>
                         <div className='absolute top-2 right-0 pb-2 h-16 w-16' onClick={() => { popUp2() }}>
                             <><FaTimes /></>
                         </div>
@@ -162,10 +159,7 @@ const Projects = () => {
                         <center>
                             <div className='space-x-4'>
                                 <a href="https://asthanegi14.github.io/Oibsip_taskno_3_ToDo-List-AngularJs-/">
-                                    <button className='cursor-pointer hover:bg-gray-200 hover:text-black text-lg  bg-red-700 text-white px-4 py-2 font-signature text-center rounded-md'>Demo</button>
-                                </a>
-                                <a href="https://github.com/asthanegi14/Oibsip_taskno_3_ToDo-List-AngularJs-">
-                                    <button className='cursor-pointer hover:bg-gray-200 hover:text-black text-lg bg-red-700 text-white px-4 py-2 font-signature text-center rounded-md'>Code</button>
+                                    <button className='cursor-pointer hover:bg-gray-200 hover:text-black duration-500 text-lg  bg-red-700 text-white px-4 py-2 font-signature text-center rounded-md'>Demo</button>
                                 </a>
 
                             </div>
@@ -176,7 +170,7 @@ const Projects = () => {
             <Zoom>
                 {view3 &&
 
-                    <div className='pop top-0 left-0 right-0 bottom-0 fixed  bg-gradient-to-r from-cyan-600 via-cyan-400 to-cyan-600 text-black px-12 py-8'>
+                    <div className='pop sm:mx-20 sm:my-4 fixed  bg-gradient-to-b from-cyan-600 via-cyan-400 to-cyan-600 text-black px-12 py-8'>
                         <div className='absolute top-2 right-0 pb-2 h-16 w-16' onClick={() => { popUp3() }}>
                             <><FaTimes /></>
                         </div>
@@ -189,9 +183,6 @@ const Projects = () => {
                         </div>
                         <center>
                             <div className='space-x-4'>
-                                <a href="https://github.com/Greedy-Only/Crowd-Funding-Website-using-Ethereum-Blockchain">
-                                    <button className='cursor-pointer hover:bg-gray-200 hover:text-black text-lg bg-red-700 text-white px-4 py-2 font-signature text-center rounded-md'>Code</button>
-                                </a>
                                 <p className='font-signature py-2'>There is no Demo available for this project</p>
                             </div>
                         </center>
@@ -200,7 +191,7 @@ const Projects = () => {
             <Zoom>
                 {view4 &&
 
-                    <div className='pop top-0 left-0 right-0 bottom-0 fixed  bg-gradient-to-r from-cyan-600 via-cyan-400 to-cyan-600 text-black px-12 py-8'>
+                    <div className='pop sm:mx-20 sm:my-4 fixed  bg-gradient-to-b from-cyan-600 via-cyan-400 to-cyan-600 text-black px-12 py-8'>
                         <div className='absolute top-2 right-0 pb-2 h-16 w-16' onClick={() => { popUp4() }}>
                             <><FaTimes /></>
                         </div>
@@ -214,12 +205,8 @@ const Projects = () => {
                         <center>
                             <div className='space-x-4'>
                                 <a href="https://asthanegi14.github.io/VOICE-Or-TEXT-CONVERTER">
-                                    <button className='cursor-pointer hover:bg-gray-200 hover:text-black text-lg  bg-red-700 text-white px-4 py-2 font-signature text-center rounded-md'>Demo</button>
+                                    <button className='cursor-pointer hover:bg-gray-200 hover:text-black duration-500 text-lg  bg-red-700 text-white px-4 py-2 font-signature text-center rounded-md'>Demo</button>
                                 </a>
-                                <a href="https://github.com/asthanegi14/VOICE-Or-TEXT-CONVERTER">
-                                    <button className='cursor-pointer hover:bg-gray-200 hover:text-black text-lg bg-red-700 text-white px-4 py-2 font-signature text-center rounded-md'>Code</button>
-                                </a>
-
                             </div>
                         </center>
                     </div>
@@ -228,7 +215,7 @@ const Projects = () => {
             <Zoom>
                 {view5 &&
 
-                    <div className='pop top-0 left-0 right-0 bottom-0 fixed  bg-gradient-to-r from-cyan-600 via-cyan-400 to-cyan-600 text-black px-12 py-8'>
+                    <div className='pop sm:mx-20 sm:my-4 fixed  bg-gradient-to-b from-cyan-600 via-cyan-400 to-cyan-600 text-black px-12 py-8'>
                         <div className='absolute top-2 right-0 pb-2 h-16 w-16' onClick={() => { popUp5() }}>
                             <><FaTimes /></>
                         </div>
@@ -243,10 +230,7 @@ const Projects = () => {
                         <center>
                             <div className='space-x-4'>
                                 <a href="https://asthanegi14.github.io/Oibsip_taskno_1_Calculator-using-js/">
-                                    <button className='cursor-pointer hover:bg-gray-200 hover:text-black text-lg  bg-red-700 text-white px-4 py-2 font-signature text-center rounded-md'>Demo</button>
-                                </a>
-                                <a href="https://github.com/asthanegi14/Oibsip_taskno_1_Calculator-using-js">
-                                    <button className='cursor-pointer hover:bg-gray-200 hover:text-black text-lg bg-red-700 text-white px-4 py-2 font-signature text-center rounded-md'>Code</button>
+                                    <button className='cursor-pointer hover:bg-gray-200 hover:text-black duration-500 text-lg  bg-red-700 text-white px-4 py-2 font-signature text-center rounded-md'>Demo</button>
                                 </a>
 
                             </div>

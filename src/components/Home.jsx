@@ -20,7 +20,7 @@ const Home = () => {
                     {/* </Zoom> */}
                     {/* <img src="https://readme-typing-svg.demolab.com?font=Merriweather&weight=700&pause=1000&color=92120B&width=432&lines=I'm+a+student;A+passionate+coder;And+a+self+motivated+person." alt="Typing SVG" /> */}
                     <p className='text-blac py-4 max-w-md'>
-                        Hello Cumties & Kelaas I am ASTHA NEGI.
+                        Hello I am ASTHA NEGI.
                         I was born and raised in Bageshwar Uttarakhand then for my graduation i moved to Dehradun. Currently I'm pursuing B.tech Computer Science from Graphic Era Hill University Dehradun.
                         I did my schooling from Javahar Navodaya Vidhyalaya Bageshwar. I'm a student of section J 6th Sem.
                     </p>
