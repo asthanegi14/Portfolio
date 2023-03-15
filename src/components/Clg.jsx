@@ -215,7 +215,7 @@ const Clg = () => {
                         </div>
                         <div className='px-4 pt-8 text-center'>
 
-                            <a href='www.google.com' className='cursor-pointer hover:scale-105 duration-500 text-sm bg-gradient-to-r  from-red-700 to-red-500 text-white px-4 py-2 font-signature text-center rounded-md' alt="intro">Introduction video Link</a>
+                            <a href='https://drive.google.com/file/d/11kFPMgVDQceF5Im2dxzUbflmJH9Eb4v0/view?usp=drivesdk' className='cursor-pointer hover:scale-105 duration-500 text-sm bg-gradient-to-r  from-red-700 to-red-500 text-white px-4 py-2 font-signature text-center rounded-md' alt="intro">Introduction video Link</a>
                         </div>
                     </div>
                 }
