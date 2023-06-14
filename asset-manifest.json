@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.fc33191d.css",
-    "main.js": "/Portfolio/static/js/main.f9308dd0.js",
+    "main.css": "/Portfolio/static/css/main.c77f627f.css",
+    "main.js": "/Portfolio/static/js/main.1e624f06.js",
     "static/media/Donation.jpg": "/Portfolio/static/media/Donation.eb0a7c6e97f9373ae55f.jpg",
     "static/media/ashu.png": "/Portfolio/static/media/ashu.daeab697a4e03f489431.png",
     "static/media/gehu.jpeg": "/Portfolio/static/media/gehu.d7f40ce95d1d9de8094b.jpeg",
     "static/media/todo.jpg": "/Portfolio/static/media/todo.66a85d0c8f393e5597f8.jpg",
     "static/media/flowchart.png": "/Portfolio/static/media/flowchart.69b36bf081b27a247c50.png",
     "static/media/converter.png": "/Portfolio/static/media/converter.7c82c7512a4f70a682b6.png",
+    "static/media/l6.jpeg": "/Portfolio/static/media/l6.a0c3b33fd4d563336ffb.jpeg",
     "static/media/calci.jpg": "/Portfolio/static/media/calci.92b545423071af92021b.jpg",
+    "static/media/l11.jpeg": "/Portfolio/static/media/l11.d2da647ba7fba8d35511.jpeg",
     "index.html": "/Portfolio/index.html",
-    "main.fc33191d.css.map": "/Portfolio/static/css/main.fc33191d.css.map",
-    "main.f9308dd0.js.map": "/Portfolio/static/js/main.f9308dd0.js.map"
+    "main.c77f627f.css.map": "/Portfolio/static/css/main.c77f627f.css.map",
+    "main.1e624f06.js.map": "/Portfolio/static/js/main.1e624f06.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc33191d.css",
-    "static/js/main.f9308dd0.js"
+    "static/css/main.c77f627f.css",
+    "static/js/main.1e624f06.js"
   ]
 }
